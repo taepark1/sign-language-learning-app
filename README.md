@@ -34,4 +34,4 @@ YOLOv8 기반 웹캠 수어 단어 학습 프로그램 프로토타입입니다.
 ## 실행 방법
 ```bash
 pip install -r requirements.txt
-python prototype/main.py
+python main.py
